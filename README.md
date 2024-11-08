@@ -37,7 +37,8 @@ The system consists of two main components:
    ```bash
    git clone https://github.com/your-username/DocProcessingBot.git
 
-   cd doc-processing-rag-chatbot
+   cd DocProcessingBot
+
    ```
 
 2. **Install Dependencies**
