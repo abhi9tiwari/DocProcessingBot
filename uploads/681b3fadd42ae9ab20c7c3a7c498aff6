@@ -1,0 +1,15 @@
+git commands:
+git config --global user.name Abhinav
+git config --global user.email abhinavtiwari465@gmail.com
+
+//to create empty file
+touch .gitignore
+//to ignore files type foldername/ in the gitignore file.
+
+Main commands:
+git init
+git add .
+git commit -m "Initial commit"
+git status
+git remote add origin ssh
+git push origin master
