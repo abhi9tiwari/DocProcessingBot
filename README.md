@@ -35,7 +35,8 @@ The system consists of two main components:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/doc-processing-rag-chatbot.git
+   git clone https://github.com/your-username/DocProcessingBot.git
+
    cd doc-processing-rag-chatbot
    ```
 
